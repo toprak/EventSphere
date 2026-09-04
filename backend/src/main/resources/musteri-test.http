@@ -1,0 +1,10 @@
+POST http://localhost:8082/api/musteri
+Content-Type: application/json
+
+{
+  "isim": "Toprak",
+  "soyisim": "Güneysel",
+  "email": "toprak@example.com",
+  "telNo": "05395123456",
+  "dogumTarihi": "2005-09-07"
+}
