@@ -5,6 +5,6 @@ Content-Type: application/json
   "isim": "Toprak",
   "soyisim": "Güneysel",
   "email": "toprak@example.com",
-  "telNo": "05395123456",
-  "dogumTarihi": "2005-09-07"
+  "telNo": "05550000000",
+  "dogumTarihi": "2000-01-01"
 }
